@@ -9,6 +9,8 @@ A simple tool to remove metadata from PDF, DOCX, XLSX, XLS, PPTX, PPT, and DOC f
 - **Simple GUI** using PyQt5 for folder selection.
 - **Processes all files in a folder** and saves cleaned copies in a `<original_folder_name>_no_metadata` folder.
 
+Metadata-Remover is well tested on PDF and docx files. Other file types are to be tested more in the future. So no guarantees there :)
+
 ## Installation
 
 ```sh
