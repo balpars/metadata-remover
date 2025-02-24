@@ -1,0 +1,7 @@
+PyPDF2
+python-docx
+openpyxl
+python-pptx
+olefile
+PyQt5
+lxml
